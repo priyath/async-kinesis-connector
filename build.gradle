@@ -2,8 +2,8 @@ plugins {
     id 'java'
 }
 
-group 'com.github.priyath'
-version '1.0-SNAPSHOT'
+group 'com.github.priyath.kinesis'
+version '1.0.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
 
